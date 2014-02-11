@@ -1,3 +1,11 @@
+"""
+oscar_stripe.models
+~~~~~~~~~~~~~~~~~~~
+
+:copyright: (c) 2014 by Xavier Ordoquy,
+see AUTHORS for more details.
+:license: BSD, see LICENSE for more details.
+"""
 
 from django.db import models
 from django.utils.translation import ugettext as _
