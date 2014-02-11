@@ -45,10 +45,10 @@ setup(
     license='BSD',
 
     packages=[
-        'django-oscar-stripe',
+        'oscar_stripe',
     ],
     package_dir={
-        'django-oscar-stripe': 'django-oscar-stripe'
+        'oscar_stripe': 'oscar_stripe'
     },
     zip_safe=False,
 
